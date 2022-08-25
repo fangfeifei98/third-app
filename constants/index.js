@@ -582,4 +582,4 @@ export const abi =
       "type": "receive"
     }
   ]
-export const WHITELIST_CONTRACT_ADDRESS = "0x0FB8cf2e5e6059c65C5CC7f4E9764c0800EFD07B";
+export const WHITELIST_CONTRACT_ADDRESS = "0x3A77d5469DE962bb47f32e3c05B44d39D0Ca0575";
